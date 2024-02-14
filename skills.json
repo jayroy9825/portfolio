@@ -1,0 +1,124 @@
+[
+    {
+        "name": "Python",
+        "icon": "https://img.icons8.com/?size=64&id=hGdCwhSHUe6L"
+    },
+    {
+        "name": "Pytorch",
+        "icon": "https://img.icons8.com/?size=64&id=O6SWwpPIM0GB"
+    },
+    {
+        "name": "AWS",
+        "icon": "https://img.icons8.com/?size=64&id=mHi46t5vguiz"
+    },
+    {
+        "name": "Pandas",
+        "icon": "https://img.icons8.com/color/64/pandas.png"
+    },
+    {
+        "name": "Numpy",
+        "icon": "https://img.icons8.com/color/64/numpy.png"
+    },
+    {
+        "name": "Tensorflow",
+        "icon": "https://img.icons8.com/color/64/tensorflow.png"
+    },
+    {
+        "name": "Anaconda",
+        "icon": "https://img.icons8.com/fluency/64/anaconda--v2.png"
+    },
+    {
+        "name": "PyCharm",
+        "icon": "https://img.icons8.com/?size=64&id=B5T4RdBJefjF&format=png"
+    },
+    {
+        "name": "Hadoop",
+        "icon": "https://img.icons8.com/color/64/hadoop-distributed-file-system.png"
+    },
+    {
+        "name": "Spark",
+        "icon": "https://spark.apache.org/images/spark-logo-trademark.png"
+    },
+    {
+        "name": "Django",
+        "icon": "https://img.icons8.com/?size=64&id=hs3gwiXlyJ01"
+    },
+    {
+        "name": "JAX",
+        "icon": "https://raw.githubusercontent.com/google/jax/main/images/jax_logo.png"
+    },
+    {
+        "name": "Git",
+        "icon": "https://img.icons8.com/?size=64&id=20906"
+    },
+    {
+        "name": "Kubernetes",
+        "icon": "https://img.icons8.com/?size=64&id=vgVcFHeBHXNm"
+    },
+    {
+        "name": "Docker",
+        "icon": "https://img.icons8.com/?size=64&id=22801&format=png"
+    },
+    {
+        "name": "SQL",
+        "icon": "https://img.icons8.com/?size=64&id=RaqQIdZmC624"
+    },
+    {
+        "name": "MongoDb",
+        "icon": "https://img.icons8.com/?size=64&id=74402"
+    },
+    {
+        "name": "My SQL",
+        "icon": "https://img.icons8.com/?size=64&id=qGUfLiYi1bRN"
+    },
+    {
+        "name": "VS Code",
+        "icon": "https://img.icons8.com/?size=64&id=0OQR1FYCuA9f"
+    },
+
+    {
+        "name": "Rest API",
+        "icon": "https://uxwing.com/wp-content/themes/uxwing/download/web-app-development/rest-api-icon.png"
+    },
+    {
+        "name": "Github",
+        "icon": "https://img.icons8.com/?size=64&id=12599"
+    },
+    {
+        "name": "Matlab",
+        "icon": "https://img.icons8.com/?size=64&id=r5Y16PcDkoWI"
+    },
+    {
+        "name": "MLflow",
+        "icon": "https://raw.githubusercontent.com/mlflow/mlflow/master/assets/logo.svg"
+    },
+    {
+        "name": "HTML",
+        "icon": "https://img.icons8.com/fluency/64/html-5.png"
+    },
+    {
+        "name": "Node.js",
+        "icon": "https://img.icons8.com/?size=512&id=hsPbhkOH4FMe&format=png"
+    },
+    {
+        "name": "C",
+        "icon": "https://img.icons8.com/fluency/64/c-programming.png"
+    },
+    {
+        "name": "Tailwind CSS",
+        "icon": "https://img.icons8.com/?size=512&id=4uzTHMgfQhQq&format=png"
+    },
+    {
+        "name": "Photoshop",
+        "icon": "https://img.icons8.com/color/64/adobe-photoshop--v1.png"
+    },
+    {
+        "name": "Figma",
+        "icon": "https://img.icons8.com/color/64/figma--v1.png"
+    },
+    {
+        "name": "Final Cut Pro",
+        "icon": "https://img.icons8.com/color/64/final-cut-pro-x.png"
+    }
+    
+]
